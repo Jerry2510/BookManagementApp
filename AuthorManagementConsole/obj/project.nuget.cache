@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OBbmEueqIWeyK7kUWy8dOL+Edm9Lhp9HIBbkW2EepS8ZXDWLFLMCjgacArgeDoG+/tZOjuedkakh/MeGDlmY8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\munnasa\\source\\repos\\BooksManagementTeamE\\BooksManagementTeamE\\AuthorManagementConsole\\AuthorManagementConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\munnasa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\munnasa\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\munnasa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+C:\Users\zaidimi\Downloads\202307-ecolab-cs-main (25)\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe.config
+C:\Users\zaidimi\Downloads\202307-ecolab-cs-main (25)\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe
+C:\Users\zaidimi\Downloads\202307-ecolab-cs-main (25)\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.pdb
+C:\Users\zaidimi\Downloads\202307-ecolab-cs-main (25)\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.AssemblyReference.cache
+C:\Users\zaidimi\Downloads\202307-ecolab-cs-main (25)\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\zaidimi\Downloads\202307-ecolab-cs-main (25)\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.CoreCompileInputs.cache
+C:\Users\zaidimi\Downloads\202307-ecolab-cs-main (25)\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.exe
+C:\Users\zaidimi\Downloads\202307-ecolab-cs-main (25)\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.pdb
+C:\cs-training\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe.config
+C:\cs-training\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe
+C:\cs-training\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.pdb
+C:\cs-training\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.AssemblyReference.cache
+C:\cs-training\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.SuggestedBindingRedirects.cache
+C:\cs-training\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.CoreCompileInputs.cache
+C:\cs-training\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.exe
+C:\cs-training\202307-ecolab-cs-main\cs-projects\BooksManagementApp\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.pdb
+C:\Users\munnasa\source\repos\BooksManagementTeamE\BooksManagementTeamE\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe.config
+C:\Users\munnasa\source\repos\BooksManagementTeamE\BooksManagementTeamE\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.exe
+C:\Users\munnasa\source\repos\BooksManagementTeamE\BooksManagementTeamE\BooksManagmentConsole\bin\Debug\BooksManagmentConsole.pdb
+C:\Users\munnasa\source\repos\BooksManagementTeamE\BooksManagementTeamE\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.AssemblyReference.cache
+C:\Users\munnasa\source\repos\BooksManagementTeamE\BooksManagementTeamE\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\munnasa\source\repos\BooksManagementTeamE\BooksManagementTeamE\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.csproj.CoreCompileInputs.cache
+C:\Users\munnasa\source\repos\BooksManagementTeamE\BooksManagementTeamE\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.exe
+C:\Users\munnasa\source\repos\BooksManagementTeamE\BooksManagementTeamE\BooksManagmentConsole\obj\Debug\BooksManagmentConsole.pdb
